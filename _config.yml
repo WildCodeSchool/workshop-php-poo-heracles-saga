@@ -17,7 +17,7 @@ style: dev # possible values: dev, data, ciber, design or wild.
 title: 'Heracles saga'
 description: 'La Programmation Orientée Objet en PHP'
 # type: ''
-# main_image: '' # http or relative path to image
+main_image: 'heracles-saga.png' # http or relative path to image
 show_clone: false
 show_toc: true
 lang: fr
